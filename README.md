@@ -421,11 +421,11 @@ Time to share your work!
 
 ## Key Takeaways
 
-✅ **Global search** finds patterns across entire projects instantly
-✅ **Preview before replacing** prevents costly mistakes
-✅ **Replace All** makes consistent changes efficiently
-✅ **Batch commits** group related changes logically
-✅ **Diff view** helps verify multi-file changes before committing
+- ✅ **Global search** finds patterns across entire projects instantly
+- ✅ **Preview before replacing** prevents costly mistakes
+- ✅ **Replace All** makes consistent changes efficiently
+- ✅ **Batch commits** group related changes logically
+- ✅ **Diff view** helps verify multi-file changes before committing
 
 ---
 
